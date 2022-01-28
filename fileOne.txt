@@ -1,3 +1,5 @@
 This is first commit to repo
 
 Added more content for direct commit
+
+Adding more content for diff command check
