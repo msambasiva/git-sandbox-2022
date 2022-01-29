@@ -8,4 +8,6 @@ Adding more content for conflicts
 
 while(){
   print "while";
+for(){
+ print "for";
 }
