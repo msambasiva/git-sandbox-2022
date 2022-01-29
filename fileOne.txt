@@ -5,3 +5,7 @@ Added more content for direct commit
 Adding more content for diff command check
 
 Adding more content for conflicts
+
+while(){
+  print "while";
+}
