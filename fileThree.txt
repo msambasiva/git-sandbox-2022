@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 new file 3 created`
 
 New feature from new-feature branch
+
+new bug fix from bug-fix branch`
